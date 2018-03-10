@@ -14,7 +14,7 @@ If you can see a version, it's ok
 
 You need gulp at least 4.0. To install:
 
-`npm install --global gulp-cli`
+`npm install gulpjs/gulp#4.0 --save-dev`
 
 ## To start:
 
@@ -22,6 +22,6 @@ You need gulp at least 4.0. To install:
 
 - to clone the repository
 
-`npm install gulpjs/gulp#4.0 --save-dev`
+`npm install`
 
 - to install packages from the file package.json and the depended packages
