@@ -1,0 +1,35 @@
+{
+  "name": "landing1",
+  "version": "1.0.0",
+  "description": "This is Landing page for summary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TatSteb/landing1.git"
+  },
+  "keywords": [
+    "pug",
+    "gulp",
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "Tatyana Steblyuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TatSteb/landing1/issues"
+  },
+  "homepage": "https://github.com/TatSteb/landing1#readme",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp.spritesmith": "^6.3.0",
+    "rimraf": "^2.6.2"
+  }
+}
