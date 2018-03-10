@@ -22,6 +22,6 @@ You need gulp at least 4.0. To install:
 
 - to clone the repository
 
-`npm install`
+`npm install gulpjs/gulp#4.0 --save-dev`
 
 - to install packages from the file package.json and the depended packages
